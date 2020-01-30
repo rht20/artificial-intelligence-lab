@@ -1,0 +1,14 @@
+   Input File   | Strategy | Min Weight | Max Weight | Average Weight
+---------------------------------------------------------------------
+	input0.txt | DynWVC1 | 44036 | 44672 | 44376.80
+	input0.txt | DynWVC2 | 44208 | 44889 | 44399.00
+	input1.txt | DynWVC1 | 226048 | 228739 | 227624.40
+	input1.txt | DynWVC2 | 227192 | 228893 | 228307.60
+	input2.txt | DynWVC1 | 104584 | 106527 | 105903.20
+	input2.txt | DynWVC2 | 105209 | 106220 | 105810.60
+	input3.txt | DynWVC1 | 166377 | 167842 | 167156.40
+	input3.txt | DynWVC2 | 165717 | 170090 | 167905.80
+	input4.txt | DynWVC1 | 54264 | 56038 | 55082.80
+	input4.txt | DynWVC2 | 53933 | 56082 | 55087.80
+bio-celegans.txt | DynWVC1 | 13944 | 13994 | 13969.40
+bio-celegans.txt | DynWVC2 | 14316 | 14402 | 14363.60
